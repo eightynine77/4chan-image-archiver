@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/eightynine77/4chan-image-archiver/refs/heads/main/screenshot.png" width="800px"><br>
 # 4chan image archiver
 handy web browser bookmarklet to archive all 4chan images.
 
